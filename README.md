@@ -15,6 +15,9 @@
   <a href="https://t.me/KuperTech">
     <img src="https://img.shields.io/badge/Telegram-KuperTech-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
+  <a href="https://boosty.to/kupertech">
+    <img src="https://img.shields.io/badge/Boosty-KuperTech-F15F2C?style=flat-square&logo=boosty&logoColor=white" alt="Boosty" />
+  </a>
 </p>
 
 ---
@@ -50,7 +53,8 @@
 
 ---
 
-## Обратная связь
+## Обратная связь и поддержка
 
 * Telegram: [@KuperTech](https://t.me/KuperTech)
+* Boosty: [boosty.to/kupertech](https://boosty.to/kupertech)
 * Автор: KUPER
