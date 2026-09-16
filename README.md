@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/KupTech/KupWS-apk/releases/latest">
-    <img src="https://img.shields.io/github/v/release/KupTech/KupWS-apk?style=flat-square&color=blue&label=Скачать%20APK" alt="Download APK" />
+    <img src="https://img.shields.io/badge/Скачать_APK-v1.0.0-2ea44f?style=flat-square&logo=android&logoColor=white" alt="Скачать APK" />
   </a>
   <a href="https://t.me/KuperTech">
     <img src="https://img.shields.io/badge/Telegram-KuperTech-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel" />
