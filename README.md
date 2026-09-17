@@ -55,6 +55,9 @@
 
 ## Обратная связь и поддержка
 
-* Telegram: [@KuperTech](https://t.me/KuperTech)
-* Boosty: [boosty.to/kupertech](https://boosty.to/kupertech)
-* Автор: KUPER
+* **Telegram-канал:** [@KuperTech](https://t.me/KuperTech) («👀 Kup - и точка 👀»)
+* **Boosty:** [boosty.to/kupertech](https://boosty.to/kupertech)
+* **DonationAlerts:** [donationalerts.com/r/kupertech](https://www.donationalerts.com/r/kupertech)
+* **Поддержка (Сбербанк):** `2202 2069 1837 9137` *(оставляйте сообщения)*
+* **Шикимори:** [shikimori.one/KuperTech](https://shikimori.one/KuperTech)
+* **Автор:** KUPER
